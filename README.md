@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 ### Hi there 👋
-I'm a final year Engineering/CS Student at [PDM University](http://www.pdm.ac.in/) India, Data Mining Intern at Peacock Solar. <br/> <br/>
+I'm Shivakant Vishwakarma. I did my graduation computer science engineering with specialization cloud computing from [PDM University](http://www.pdm.ac.in/) India, Currently working as an Associate Business Analyst at [Infosys](https://www.infosys.com/) <br/> <br/>
 [![twitter badge](https://img.shields.io/badge/twitter-@shivakant_vishwakarma-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shivakantvish16)
 [![dev.to badge](https://img.shields.io/badge/linkedin-shivakant-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivakant-vishwakarma-b11090160/)
 ![](https://komarev.com/ghpvc/?username=shivakant1999&color=brightgreen&style=flat)
